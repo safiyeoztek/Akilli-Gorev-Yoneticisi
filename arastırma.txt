@@ -1,0 +1,13 @@
+- Fonksiyon neden var?
+Fonksiyonlar, kod tekrarı yapmamak için vardır. Aynı işlemi tek bir dosyada birden fazla kez yapmak istediğimizde
+ her seferinde aynı işlemi tekrar tekrar yazmak yerine tanımladığımız fonksiyonu çağırarak zaman kaybı ve kod karmaşıklığını önleyebiliriz.
+
+- for döngüsü kaç kere çalışır?
+range(2), 0 ve 1 değerlerini üreteceğinden dolayı döngü 2 kez çalışır.
+
+- return ne işe yarar?
+return, fonksiyon içerisinde elde edilen sonucu döndürerek fonksiyonun çağırıldığı yere atayarak fonksiyonu sonlandırır.
+Örnekte sonuç bir String değerine atanmıştır.
+
+- Kullanıcıdan kaç kez input alınıyor?
+İnput döngünün içinde olduğu ve döngü 2 kez çalıştığı için 2 kez input alınır..
